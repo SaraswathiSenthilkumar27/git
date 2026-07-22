@@ -1,4 +1,6 @@
 # Git Course
 This is complete Git Course.
 
-# This isthe Chnage from feature Branch
+# This is the Change from feature Branch.
+
+# This is feature 2.0.
